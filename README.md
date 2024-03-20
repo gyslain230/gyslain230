@@ -1,5 +1,5 @@
 ###  RUGIRA Gyslain
-<h1> :man_technologist: Front-end</h1>
+<h1> :man_technologist: Front-end-Developer</h1>
 
 
 
